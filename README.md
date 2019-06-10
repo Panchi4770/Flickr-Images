@@ -1,8 +1,6 @@
-# Photo-Gallery
+# Flickr - Images
 
-I have used Flickr API's in this project which  downloads and displays photos from Flickr’s public feed, this app will take you through services, multithreading, accessing web services, and more.  
+I used Flickr API's in this project which displays photos from Flickr’s public feed.
+The app  display a collection of small images and provide the ability to display a larger version of any image.
 
-This project has done via help of Big Nerd Ranch Android book:
-https://www.bignerdranch.com/we-write/android-programming/
 
-![photo](https://cloud.githubusercontent.com/assets/13104724/11788406/bb8b9a2c-a245-11e5-889b-dcd608cc3f57.png)
